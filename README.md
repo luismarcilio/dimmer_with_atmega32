@@ -23,6 +23,6 @@ We had to implement three of the main blutooth protocols:
 
 
 
-  
-
+  ![High voltage section](https://github.com/luismarcilio/dimmer_with_atmega32/blob/main/Screenshot%202023-11-10%20at%2018.46.57.png?raw=true)
+  ![Low voltage section](https://github.com/luismarcilio/dimmer_with_atmega32/blob/main/Screenshot%202023-11-10%20at%2018.47.13.png?raw=true)
   
